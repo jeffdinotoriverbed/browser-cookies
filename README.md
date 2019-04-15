@@ -7,6 +7,7 @@
 [![NPM Downloads][npm-downloads-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Coveralls Status][coveralls-image]][coveralls-url]
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fbrowser-cookies.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fbrowser-cookies?ref=badge_shield)
 
 - [Features](#features)
 - [Browser compatibility](#browser-compatibility)
@@ -231,3 +232,6 @@ Public Domain ([UNLICENSE][ref-licence])
 
 [saucelabs-url]: https://saucelabs.com/u/browser-cookies
 [saucelabs-image]: https://rawgit.com/voltace/browser-cookies/master/browser_compatibility.svg
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fbrowser-cookies.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fbrowser-cookies?ref=badge_large)
